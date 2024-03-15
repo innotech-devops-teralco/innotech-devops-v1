@@ -12,4 +12,4 @@ jobs:
       # Enumere todos los archivos en el directorio actual para la comparación antes y después actions/checkout@v2.
       - run: ls -l
       - uses: actions/checkout@v2
-      - run: ls -
+      - run: ls -l
