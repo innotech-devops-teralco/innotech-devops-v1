@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import { App } from "./App";
 import { createGlobalStyle } from "styled-components";
 
-//COMENTARIO DEBAJO DE LOS IMPORTS
+//COMENTARIO DEBAJO DE LOS IMPORTS 2
 
 const Global = createGlobalStyle`
   body {
